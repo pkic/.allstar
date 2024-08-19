@@ -1,5 +1,3 @@
-# Example .allstar Quickstart Repository
+# Allstar configuration for PKI Consortium
 
-This repository can be forked into your organization as `.allstar` to quickly
-enable issue creation for all Allstar policies on all repositories with the
-default settings.
+Allstar is a security-policy GitHub App installed on this organization. This repository contains its configuration. The app is set up to create issues on repositories that do not comply with the configured policies.
